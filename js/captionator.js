@@ -839,7 +839,7 @@
 					}
 				};
 	
-				captionator.processVideoElement(videoElements[elementIndex],defaultLanguage,options);
+				captionator.processVideoElement(videoElement,defaultLanguage,options);
 			});
 	
 			return true;
