@@ -2165,6 +2165,7 @@
 	
 		// Style node!
 		captionator.applyStyles(containerObject,{
+			"pointerEvents": "none",
 			"position": "absolute",
 			"overflow": "hidden",
 			"zIndex": 100,
